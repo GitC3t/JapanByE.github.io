@@ -86,7 +86,7 @@ header div {
   padding-top:30px;
   padding-right:0;
   padding-bottom:30px;
-  padding-left:o;
+  padding-left:0;
 
   margin-top: 0;
   margin-bottom: 0;
@@ -113,7 +113,7 @@ header div {
 }
 
 section {
-  background-image:url("https://github.com/GitC3t/JapanByE.github.io/blob/index.html/Images/GreenWatercolor.jpg")
+  background-image:url("https://github.com/GitC3t/JapanByE.github.io/blob/index.html/Images/GreenWatercolor.jpg");
   background-position: center center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
