@@ -113,7 +113,7 @@ header div {
 }
 
 section {
-  background-image:url("Images\\GreenWatercolor.jpg");
+  background-image:url("C:\\Users\\EmmaS\\CodaKid\\Projects\\Html5\\Webby Sites!\\Images\\GreenWatercolor.jpg");
 
   background-position: center center;
   background-size: 100% 100%;
@@ -164,15 +164,15 @@ footer div{
 }
 
 .nationalgeographic-icon{
-  background-image:url("Images\\National-Geographic-Logo.png");
+  background-image:url("C:\\Users\\EmmaS\\CodaKid\\Projects\\Html5\\Webby Sites!\\Images\\National-Geographic-Logo.png");
 }
 
 .youtube-icon{
-  background-image:url("Images\\GeographyNow-Icon.jpg");
+  background-image:url("C:\\Users\\EmmaS\\CodaKid\\Projects\\Html5\\Webby Sites!\\Images\\GeographyNow-Icon.jpg");
 }
 
 .brittancia-icon{
-  background-image:url("Images\\britannica-icon.jpg");
+  background-image:url("C:\\Users\\EmmaS\\CodaKid\\Projects\\Html5\\Webby Sites!\\Images\\britannica-icon.jpg");
 }
 
 footer div a {
