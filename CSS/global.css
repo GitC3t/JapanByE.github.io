@@ -113,7 +113,7 @@ header div {
 }
 
 section {
-
+  background-color:blue;
   background-position: center center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
